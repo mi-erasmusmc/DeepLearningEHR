@@ -33,7 +33,7 @@ tempCovarSettings <- createTemporalSequenceCovariateSettings(useDemographicsGend
                                                              timePart = 'DAY',
                                                              timeInterval = 1,
                                                              sequenceStartDay = -365,
-                                                             sequenceEndDay = -1
+                                                             sequenceEndDay = -1)
 
 
 # get plp data with my already defined cohorts in my cohortTable
