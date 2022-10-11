@@ -1,7 +1,7 @@
 # Attention based deep learning on EHR data
 
 Replication of recent deep learning models using attention. SARD [1], RETAIN[2] and a Variational GNN [3]. Developed using 
-the OMOP common data model.
+the OMOP common data model. The fitted models are stored in /SavedModels
 
 ### How to Install
 
